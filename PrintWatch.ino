@@ -18,7 +18,7 @@ const char* WIFI_PASS = "ENTER_PASSWORD";
 const char *API_KEY = "ENTER_API_KEY";
 const char *PRINTER_ID = "enter-custom-printer-id-name";
 
-const char *ai_url = "https://ai.printpal.io/api/v2/infer";
+const char *ai_url = "https://octoprint.printpal.io/api/v2/infer";
 
 long lastTime = millis();
 
